@@ -1,15 +1,20 @@
 # CRUD Aplicacion sobre Producto con JSON Interno y React-EasyUI -COREP
-## Operaciones: Adicion, modificacion, eliminacion y busqueda,
+## Operaciones: Adicion, modificacion, eliminacion y busqueda
 
 ### Descripcion
 
 Este proyecto implementa operaciones CRUD completas (Crear, Leer, Actualizar y Eliminar), junto con filtrado y paginación en un grid. A continuación, se describen las funcionalidades principales:
 
 *Operaciones CRUD y Filtrado: Todas las operaciones de CRUD y filtrado son completamente funcionales.
+
 *Grid con Filtros: El grid permite filtrar datos por todos los campos.
+
 *Ajuste de Columnas: Es posible cambiar el ancho de las columnas en el grid.
+
 *Paginación: El grid incluye paginación y permite seleccionar el número de elementos por página (10, 20, etc.).
+
 *Función de Limpiar Filtros: Actualmente, la función para limpiar campos de filtro no está operativa.
+
 *Función formato numerico: Actualmente, el formato numerico a las columnas del grid no está operativa.
 
 ### Requisitos del Sistema
