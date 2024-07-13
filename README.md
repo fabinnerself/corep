@@ -66,7 +66,7 @@ El proyecto también ha sido probado en el siguiente entorno alternativo:
 
 extraido de https://www.jeasyui.com/download/rc.php
 
-##Comandos utiles
+## Comandos utiles
 
 lsb_release -a && uname -r
 
