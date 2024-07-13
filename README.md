@@ -66,4 +66,10 @@ El proyecto también ha sido probado en el siguiente entorno alternativo:
 
 extraido de https://www.jeasyui.com/download/rc.php
 
+##Comandos utiles
+
+lsb_release -a && uname -r
+
+node -v && nvm -v && npm -v && npx -v && vue -V
+
 (C) 2024 Favian Medina Gemio
