@@ -37,18 +37,33 @@ El proyecto también ha sido probado en el siguiente entorno alternativo:
 
 ## notas de instalacion
 1. Crear la React App.
+   
     npm install -g create-react-app
+   
     create-react-app my-app
+   
     cd my-app
-2.  Instalar  EasyUI para React.
+   
+3.  Instalar  EasyUI para React.
+   
     npm install rc-easyui --save
-3. Importar los archivos theme .
+    
+5. Importar los archivos theme .
+   
     @import '~rc-easyui/dist/themes/default/easyui.css';
+   
     @import '~rc-easyui/dist/themes/icon.css';
+   
     @import '~rc-easyui/dist/themes/react.css';
-4. En el archivo donde se ejecutaran los componentes Easyi-UI incluir las librerias que correspondan
+   
+7. En el archivo donde se ejecutaran los componentes Easyi-UI incluir las librerias que correspondan
+   
     import { DataGrid, GridColumn } from 'rc-easyui';
-5. Para ejecutar
+   
+9. Para ejecutar
+    
     npm run start
 
 extraido de https://www.jeasyui.com/download/rc.php
+
+(C) 2024 Favian Medina Gemio
